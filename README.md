@@ -1,5 +1,5 @@
 ## CodeWars Solutions
-this repository contains solutions to coding challenges we have completed on CodeWars. Each solution is implemented on javaScript and reflects my approach to solving 
+this repository contains solutions to coding challenges we have completed on CodeWars. Each solution is implemented on javaScript and reflects our approach to solving 
 various problems, focusing on readability and efficiency.
 
 ## solutions 
